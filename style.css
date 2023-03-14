@@ -1,0 +1,31 @@
+.DivTrav{
+    border: 2px;
+    border-color: aquamarine;
+}
+.DivTrav img{
+    width: 100%;
+    border: 20px;
+    border-color: aquamarine;
+    border-style: ridge;
+}
+.DivTrav h4, .DivTrav p{
+    margin: 30px;
+}
+.movie_head{
+    font-size: 25px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: crimson;
+}
+.book{
+    margin-bottom: 20px;
+}
+#contact iframe{
+    width: 100%;
+}
